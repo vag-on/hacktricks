@@ -1,7 +1,7 @@
 ---
 description: >-
-  Welcome to the wiki where you will find each hacking trick/technique/whatever
-  I have learnt from CTFs, real life apps, reading researches, and news.
+  Добро пожаловать на вики, где вы найдете очень много хакреских трюков/приёмов.
+   Я же учился на CTF, реальных приложениях, читал исследования и новости.
 ---
 
 # HackTricks
@@ -11,18 +11,18 @@ description: >-
 _Hacktricks logos & motion design by_ [_@ppiernacho_](https://www.instagram.com/ppieranacho/)_._
 
 {% hint style="info" %}
-**Welcome to the wiki where you will find each hacking trick/technique/whatever I have learnt from CTFs, real life apps, reading researches, and news.**
+**Добро пожаловать на вики, где вы найдете много хакерских трюков/техник/приёмов, чему я научился из CTF, реальных приложений, читая исследования и новости.**
 {% endhint %}
 
-Here you can find a little **introduction:**
+Тут находится небольшое **введение:**
 
-## [**Pentesting Methodology**](generic-methodologies-and-resources/pentesting-methodology.md)
+## [**Методы пентестинга**](generic-methodologies-and-resources/pentesting-methodology.md)
 
-Here you will find the **typical flow** that **you should follow when pentesting** one or more **machines**.
+Здесь вы найдете **стандартный алгоритм**, которому **вы должны следовать при тестировании** одной или нескольких **машин**.
 
-**Click on the title to start!**
+**Нажмите на название, чтобы начать!**
 
-## Corporate Sponsors
+## Корпоративные спонсоры
 
 ### [STM Cyber](https://www.stmcyber.com)
 
