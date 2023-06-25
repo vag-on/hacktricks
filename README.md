@@ -28,7 +28,7 @@ _Hacktricks logos & motion design by_ [_@ppiernacho_](https://www.instagram.com/
 
 ![](<.gitbook/assets/image (642) (1) (1) (1).png>)
 
-[**STM Cyber**](https://www.stmcyber.com) is a great cybersecurity company whose slogan is **HACK THE UNHACKABLE**. They perform their own research and develop their own hacking tools to **offer several valuable cybersecurity services** like pentesting, Red teams and training.
+[**STM Cyber**](https://www.stmcyber.com) Это отличная компания по кибербезопасности, слоган которой **HACK THE UNHACKABLE**. Они проводят свои собственные исследования и разрабатывают свои собственные хакерские инструменты, чтобы **предо предложить несколько ценных услуг по кибербезопасности**, таких как пен-тестирование, команды Red и обучение.
 
 You can check their **blog** in [**https://blog.stmcyber.com**](https://blog.stmcyber.com)
 
